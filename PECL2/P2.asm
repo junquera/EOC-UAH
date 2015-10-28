@@ -42,8 +42,7 @@ Inicio:
     
     neg varc2   
     
-    neg varex
-    sub varex, 10b   
+    xor varex, 8000h   
     
     mov ah, 4Ch
     int 21h
