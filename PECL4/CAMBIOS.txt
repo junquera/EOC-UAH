@@ -1,0 +1,8 @@
+CAMBIOS:
+	E3.- 740C -> 7412 ; Sumamos 14, restamos 2 (la propia instrucción)
+	E4.- 03D9 -> 01D9 ; El 7º bit indica el orden de los operandos
+	E5.- 03D9 -> 03CB ; Cambiamos los tres bits que indican cada operando
+	E6.-
+	E7.- 74XX -> 7451 ; Hay que añadirle a SI la diferencia entre AF y FE
+	E8.- BA94 -> BAAD ; SACAMENS MENSAJE2
+	E9.- 4E -> 50
